@@ -2,7 +2,7 @@
 ## 러닝 매니아를 위한 스마트 러닝 고글 – LG SmartCoach
 
 ### 수행 기관
-LG DX School 3기
+LG 전자 DX School 3기
 
 ### 수행 기간
 2025.09.16 ~ 2025.09.30
